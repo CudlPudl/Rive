@@ -1,7 +1,5 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.Rendering;
-using UnityEditor;
 using Rive;
 
 using LoadAction = UnityEngine.Rendering.RenderBufferLoadAction;
